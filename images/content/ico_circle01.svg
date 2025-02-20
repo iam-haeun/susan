@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="65" height="65" viewBox="0 0 65 65">
+  <g id="그룹_681" data-name="그룹 681" transform="translate(-536 -4318)">
+    <g id="레이어_2" data-name="레이어 2" transform="translate(536 4318)">
+      <ellipse id="타원_16" data-name="타원 16" cx="32.5" cy="32.5" rx="32.5" ry="32.5" transform="translate(0 0)" fill="#f2f2f2"/>
+    </g>
+    <g id="그룹_524" data-name="그룹 524" transform="translate(551.134 4332.323)">
+      <rect id="사각형_75" data-name="사각형 75" width="27.689" height="37.142" rx="0.772" fill="#fff" stroke="#333" stroke-miterlimit="10" stroke-width="0.5"/>
+      <path id="패스_84" data-name="패스 84" d="M.579.019,2.976,0a.453.453,0,0,1,.456.46L3.316,15a.471.471,0,0,1-.463.467l-2.4.019A.453.453,0,0,1,0,15.031L.116.487A.471.471,0,0,1,.579.019Z" transform="translate(28.014 21.884) rotate(-30)" fill="#fff" stroke="#333" stroke-linecap="round" stroke-width="0.5"/>
+      <line id="선_65" data-name="선 65" x2="16.573" transform="translate(5.558 7.304)" fill="none" stroke="#333" stroke-linecap="round" stroke-miterlimit="10" stroke-width="0.5"/>
+      <line id="선_66" data-name="선 66" x2="11.492" transform="translate(5.557 12.134)" fill="none" stroke="#333" stroke-linecap="round" stroke-miterlimit="10" stroke-width="0.5"/>
+      <line id="선_67" data-name="선 67" x2="10.106" transform="translate(5.557 16.963)" fill="none" stroke="#333" stroke-linecap="round" stroke-miterlimit="10" stroke-width="0.5"/>
+      <ellipse id="타원_30" data-name="타원 30" cx="9.293" cy="9.467" rx="9.293" ry="9.467" transform="translate(18.396 8.389)" fill="#fff" stroke="#333" stroke-linecap="round" stroke-linejoin="round" stroke-width="0.5"/>
+      <line id="선_68" data-name="선 68" x2="1.145" transform="translate(23.015 12.134)" fill="none" stroke="#333" stroke-linecap="round" stroke-miterlimit="10" stroke-width="0.5"/>
+      <line id="선_69" data-name="선 69" x2="3.515" transform="translate(20.644 16.963)" fill="none" stroke="#333" stroke-linecap="round" stroke-miterlimit="10" stroke-width="0.5"/>
+    </g>
+  </g>
+</svg>

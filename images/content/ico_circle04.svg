@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="65" height="65" viewBox="0 0 65 65">
+  <g id="그룹_684" data-name="그룹 684" transform="translate(-1321 -4318)">
+    <g id="레이어_2" data-name="레이어 2" transform="translate(1321 4318)">
+      <ellipse id="타원_16" data-name="타원 16" cx="32.5" cy="32.5" rx="32.5" ry="32.5" transform="translate(0 0)" fill="#f2f2f2"/>
+    </g>
+    <g id="레이어_1" data-name="레이어 1" transform="translate(1342.909 4327)">
+      <g id="그룹_171" data-name="그룹 171">
+        <g id="그룹_170" data-name="그룹 170" transform="translate(0 10.693)">
+          <rect id="사각형_64" data-name="사각형 64" width="21.181" height="33.44" rx="0.635" fill="#fff" stroke="#333" stroke-miterlimit="10" stroke-width="0.5"/>
+          <line id="선_52" data-name="선 52" x2="21.181" transform="translate(0 4.393)" fill="none" stroke="#333" stroke-miterlimit="10" stroke-width="0.5"/>
+          <line id="선_53" data-name="선 53" x2="21.181" transform="translate(0 27.521)" fill="none" stroke="#333" stroke-miterlimit="10" stroke-width="0.5"/>
+          <line id="선_54" data-name="선 54" x2="6.915" transform="translate(7.133 2.282)" fill="none" stroke="#333" stroke-linecap="round" stroke-miterlimit="10" stroke-width="0.5"/>
+          <line id="선_55" data-name="선 55" x2="0.655" transform="translate(17.572 2.282)" fill="none" stroke="#333" stroke-linecap="round" stroke-miterlimit="10" stroke-width="0.5"/>
+          <ellipse id="타원_20" data-name="타원 20" cx="0.237" cy="0.237" rx="0.237" ry="0.237" transform="translate(10.172 30.289)" stroke="#333" stroke-linecap="round" stroke-miterlimit="10" stroke-width="0.5"/>
+        </g>
+        <line id="선_56" data-name="선 56" x2="1.77" y2="2.79" transform="translate(3.593 2.36)" fill="none" stroke="#333" stroke-linecap="round" stroke-miterlimit="10" stroke-width="0.5"/>
+        <line id="선_57" data-name="선 57" y2="3.755" transform="translate(10.582)" fill="none" stroke="#333" stroke-linecap="round" stroke-miterlimit="10" stroke-width="0.5"/>
+        <line id="선_58" data-name="선 58" x1="1.77" y2="2.79" transform="translate(15.801 2.36)" fill="none" stroke="#333" stroke-linecap="round" stroke-miterlimit="10" stroke-width="0.5"/>
+      </g>
+    </g>
+  </g>
+</svg>

@@ -1,0 +1,29 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="65" height="65" viewBox="0 0 65 65">
+  <g id="그룹_687" data-name="그룹 687" transform="translate(-798 -4575)">
+    <g id="레이어_2" data-name="레이어 2" transform="translate(798 4575)">
+      <ellipse id="타원_16" data-name="타원 16" cx="32.5" cy="32.5" rx="32.5" ry="32.5" transform="translate(0 0)" fill="#f2f2f2"/>
+    </g>
+    <g id="그룹_528" data-name="그룹 528" transform="translate(814.896 4586.929)">
+      <rect id="사각형_145" data-name="사각형 145" width="28.207" height="37.142" rx="0.772" transform="translate(0 4)" fill="#fff" stroke="#333" stroke-miterlimit="10" stroke-width="0.5"/>
+      <rect id="사각형_146" data-name="사각형 146" width="28.207" height="37.142" rx="0.772" transform="translate(2 2)" fill="#fff" stroke="#333" stroke-miterlimit="10" stroke-width="0.5"/>
+      <rect id="사각형_147" data-name="사각형 147" width="28.207" height="37.142" rx="0.772" transform="translate(4)" fill="#fff" stroke="#333" stroke-miterlimit="10" stroke-width="0.5"/>
+      <g id="그룹_525" data-name="그룹 525" transform="translate(11 2)">
+        <g id="타원_59" data-name="타원 59" fill="#fff" stroke="#333" stroke-width="0.5">
+          <circle cx="9" cy="9" r="9" stroke="none"/>
+          <circle cx="9" cy="9" r="8.75" fill="none"/>
+        </g>
+        <path id="패스_144" data-name="패스 144" d="M770.1,4586.5l4.657,8.014,8.847-1.74" transform="translate(-765.843 -4584.99)" fill="none" stroke="#333" stroke-width="0.5"/>
+        <path id="패스_145" data-name="패스 145" d="M774,4594.3l6.4-6.617" transform="translate(-765.156 -4584.78)" fill="none" stroke="#333" stroke-width="0.5"/>
+      </g>
+      <g id="그룹_526" data-name="그룹 526" transform="translate(7.5 3.5)">
+        <line id="선_132" data-name="선 132" y1="8" transform="translate(0 4)" fill="none" stroke="#333" stroke-linecap="round" stroke-width="0.5"/>
+        <line id="선_133" data-name="선 133" y1="2" fill="none" stroke="#333" stroke-linecap="round" stroke-width="0.5"/>
+      </g>
+      <g id="그룹_527" data-name="그룹 527" transform="translate(9.661 23.571)">
+        <line id="선_134" data-name="선 134" x2="16.883" transform="translate(0.001)" fill="none" stroke="#333" stroke-linecap="round" stroke-miterlimit="10" stroke-width="0.5"/>
+        <line id="선_135" data-name="선 135" x2="16.883" transform="translate(0 4.83)" fill="none" stroke="#333" stroke-linecap="round" stroke-miterlimit="10" stroke-width="0.5"/>
+        <line id="선_136" data-name="선 136" x2="16.883" transform="translate(0 9.659)" fill="none" stroke="#333" stroke-linecap="round" stroke-miterlimit="10" stroke-width="0.5"/>
+      </g>
+    </g>
+  </g>
+</svg>
